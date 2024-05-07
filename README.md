@@ -23,7 +23,7 @@ Data visualization techniques are employed to visually represent key insights an
 
 ## Data Cleaning
 
-Data cleaning focuses on identifying and correcting errors or inconsistencies in the dataset. This includes handling missing values, removing duplicates, and addressing outliers to ensure the quality and integrity of the data.
+Data cleaning focuses on identifying and correcting errors or inconsistencies in the dataset. This includes handling missing values, and addressing outliers to ensure the quality and integrity of the data.
 
 ## Data Preprocessing
 
@@ -43,7 +43,7 @@ The performance of the ANN model is compared with that of a Random Forest model,
 
 ## Summary and Reflections
 
-The project concludes with a summary of key findings and reflections on the process of predicting sales revenue using ANN. Lessons learned and challenges encountered are discussed, providing valuable insights for further exploration.
+The project concludes with a summary of key findings and reflections on the process of predicting revenue using ANN. Lessons learned and challenges encountered are discussed, providing valuable insights for further exploration.
 
 ## How to Use
 
