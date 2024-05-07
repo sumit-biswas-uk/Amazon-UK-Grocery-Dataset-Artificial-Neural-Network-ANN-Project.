@@ -1,4 +1,4 @@
-Artificial Neural Network (ANN) for Revenue Prediction- Amazon UK Grocery:
+Artificial Neural Network (ANN) for Revenue Prediction- Amazon UK Grocery dataset:
 
 Overview
 
@@ -6,15 +6,16 @@ This project aims to predict revenue using Artificial Neural Networks (ANN). Rev
 
 Introduction
 
-In this project, we present a comprehensive approach to predicting revenue using ANN. Starting from exploratory data analysis (EDA) and data cleaning to model evaluation and comparison with other techniques, we provide insights into the entire process of revenue prediction.
+In this project, we present a comprehensive approach to predicting revenue using ANN. Starting from exploratory data analysis (EDA), data visualization and data cleaning to model evaluation and comparison with other techniques, we provide insights into the entire process of revenue prediction.
 
 Dataset
 
-The dataset used for this project comprises historical data from Amazon UK Grocery. It includes various features such as product category, item price, ratings and shipping details, with the target variable being sales revenue. 
+The dataset used for this project comprises historical data from Amazon UK Grocery. It includes various features such as product category, item price, ratings and shipping details, with the target variable being sales and revenue. 
 
 Exploratory Data Analysis (EDA)
 
-EDA involves analysing the dataset to gain insights into its structure, distributions, and relationships between variables. Through visualizations and statistical summaries, we explore the data to understand its characteristics and identify patterns.
+EDA involves analysing the dataset to gain insights into its structure, finding amount of missing data and finding number of unique brands. Through statistical summaries, we explore the data to understand its characteristics.
+
 
 Data Visualization
 
