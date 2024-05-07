@@ -26,7 +26,7 @@ Data cleaning focuses on identifying and correcting errors or inconsistencies in
 
 Data Preprocessing
 
-The data preprocessing phase involves cleaning the dataset and converting temporal information into numerical format. We split the data into training and testing sets, mimicking real-world scenarios, where historical data is used to predict future outcomes. Additionally, we scale the data using RobustScaler to handle outliers effectively.
+The data preprocessing phase involves converting temporal information into numerical format. We split the data into training and testing sets, mimicking real-world scenarios, where historical data is used to predict future outcomes. Additionally, we scale the data using RobustScaler to handle outliers effectively.
 
 ANN Architecture and Hyperparameter Tuning
 
@@ -45,11 +45,17 @@ Summary and Reflections
 The project concludes with a summary of key findings and reflections on the process of predicting sales revenue using ANN. Lessons learned and challenges encountered are discussed, providing valuable insights for further exploration.
 
 How to Use
+
 •	Download the dataset from the provided Kaggle link.
+
 •	Upload the dataset to your Google Drive or local environment.
+
 •	Run the provided code in your preferred environment (e.g., Google Colab, Jupyter Notebook).
+
 •	Follow the code comments and outputs to understand the analysis process.
+
 •	Analyse the generated R-Squared scores, Mean Absolute Error and Mean Squared Error for model evaluation.
+
 
 Acknowledgements
 
