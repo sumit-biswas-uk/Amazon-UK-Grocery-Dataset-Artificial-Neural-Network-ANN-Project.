@@ -10,7 +10,7 @@ In this project, we present a comprehensive approach to predicting revenue using
 
 Dataset
 
-The dataset used for this project comprises historical data from Amazon UK Grocery. It includes various features such as product category, item price, ratings and shipping details, with the target variable being sales revenue. The dataset is pre-processed to handle missing values, outliers, and feature engineering before being fed into the ANN model.
+The dataset used for this project comprises historical data from Amazon UK Grocery. It includes various features such as product category, item price, ratings and shipping details, with the target variable being sales revenue. 
 
 Exploratory Data Analysis (EDA)
 
